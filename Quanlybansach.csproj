@@ -196,6 +196,7 @@
     <Compile Include="Models\Account.cs" />
     <Compile Include="Models\Chitietdonhang.cs" />
     <Compile Include="Models\Chude.cs" />
+    <Compile Include="Models\Class1.cs" />
     <Compile Include="Models\Donhang.cs" />
     <Compile Include="Models\Khachhang.cs" />
     <Compile Include="Models\Nhaxuatban.cs" />
